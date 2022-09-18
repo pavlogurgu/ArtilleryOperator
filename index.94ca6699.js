@@ -1,0 +1,2 @@
+!function(){var t=document.getElementsByClassName("btn"),n=0,e=!0,o=!1,a=void 0;try{for(var r,l=function(e,o){var a=o.value,r=2;a.addEventListener("click",(function(){r-=1,console.log(r),n+=1;var e,o=(e=t)[Math.floor(Math.random()*e.length)];n%3==0&&(o.textContent="tank"),r<=0&&(a.textContent="dead")}))},i=t[Symbol.iterator]();!(e=(r=i.next()).done);e=!0)l(0,r)}catch(t){o=!0,a=t}finally{try{e||null==i.return||i.return()}finally{if(o)throw a}}}();
+//# sourceMappingURL=index.94ca6699.js.map
