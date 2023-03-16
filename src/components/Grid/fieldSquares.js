@@ -407,5 +407,5 @@ export const cells = [
     id: 97,
     xValue: 7,
     yValue: 0,
-  },
+  }
 ];
